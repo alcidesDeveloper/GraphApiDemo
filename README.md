@@ -1,2 +1,2 @@
 # GraphApiDemo
-Usage of GraphQL with Hotchocolate library and CRQS
+Usage of GraphQL with Hotchocolate library and CQRS
